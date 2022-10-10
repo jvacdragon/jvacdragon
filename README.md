@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
 <h3 align="center">A developer who are a always trying to learn more</h3>
 
-- 🌱 I’m currently learning **Science computation**
+- 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://my-cv-next-indol.vercel.app/](https://my-cv-next-indol.vercel.app/)
 
